@@ -1,0 +1,21 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.5.0",
+    "@types/pako": "^2.0.0",
+    "@types/socket.io-client": "^1.4.36",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "pako": "^2.1.0",
+    "socket.io-client": "2.0"
+  },
+  "name": "rapidbus-tracker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suhaimi Amir <suhaimi@kl-my.com>",
+  "license": "MIT",
+  "description": ""
+}
